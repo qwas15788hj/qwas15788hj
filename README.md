@@ -19,6 +19,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
 ## 🧩 Problem Solving Stats
 
 <table>
@@ -46,7 +48,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwas15788hj&show_icons=true&theme=radical)
 
 <!-- 연속 커밋(스트릭) 카드 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=qwas15788hj&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=qwas15788hj&theme=radical)](https://git.io/streak-stats) -->
 
 <!-- 상위 사용 언어(옵션, 원하면 활성화) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwas15788hj&layout=compact) -->
