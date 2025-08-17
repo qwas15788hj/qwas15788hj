@@ -1,5 +1,7 @@
 ## 👋 Hyun Je Choi's GitHub
 
+안녕하세요. 도전을 중시하는 백엔드 개발자 최현제입니다. 👋
+
 ---
 
 ## ⚙️ Tech Stack
